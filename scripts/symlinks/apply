@@ -22,6 +22,8 @@ docs::parse "$@"
 
 symlinks::apply "conf.yaml"
 
+echo "SO: ${platform}"
+
 if platform::is_macos; then
   if platform::is_macos_arm; then
     symlinks::apply "conf.macos.yaml"

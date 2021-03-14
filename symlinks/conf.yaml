@@ -13,3 +13,5 @@
     ~/.zshenv: shell/zsh/.zshenv
     ~/.zshrc: shell/zsh/.zshrc
     ~/.inputrc: shell/.inputrc
+    ~/.config/terminator/config: shell/terminator/config
+    ~/.config/JetBrains/IntelliJIdea2020.3/jba_config/linux.keymaps/bytaj.xml: editors/jetbrains/keymaps/bytaj.xml
