@@ -15,4 +15,6 @@
     ~/.inputrc: shell/.inputrc
     ~/.config/terminator/config: shell/terminator/config
     ~/.config/JetBrains/IntelliJIdea2020.3/jba_config/linux.keymaps/bytaj.xml: editors/jetbrains/keymaps/bytaj.xml
+    ~/.config/JetBrains/PhpStorm2020.3/keymaps/bytaj.xml: editors/jetbrains/keymaps/bytaj.xml
+    ~/.config/JetBrains/PyCharm2020.3/keymaps/bytaj.xml: editors/jetbrains/keymaps/bytaj.xml
     ~/.zim/init.zsh: modules/dotly/modules/zimfw/init.zsh
