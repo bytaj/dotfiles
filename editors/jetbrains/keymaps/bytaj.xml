@@ -10,6 +10,9 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="EditSourceInNewWindow">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="ExternalSystem.ProjectRefreshAction">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
@@ -20,6 +23,10 @@
   <action id="GotoAction" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="OpenInRightSplit">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
+    <keyboard-shortcut first-keystroke="shift f4" />
   </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
