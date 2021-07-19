@@ -7,6 +7,8 @@ export FZF_DEFAULT_OPTS='
   --reverse
 '
 
+export GOOGLE_APPLICATION_CREDENTIALS="$HOME/.google_key/key.json"
+
 export path=(
   "$HOME/bin"
   "$DOTLY_PATH/bin"
@@ -23,4 +25,6 @@ export path=(
   "/usr/bin"
   "/usr/sbin"
   "/sbin"
+  "$HOME/anaconda3/bin"
+  "$HOME/.local/bin"
 )
